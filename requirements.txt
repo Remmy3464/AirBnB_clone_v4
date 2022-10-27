@@ -1,0 +1,13 @@
+Flask
+Flask-Bootstrap
+flasgger
+Flask-Cors
+Fabric3
+gunicorn
+Jinja2
+mysqlclient
+pep8
+requests
+requests-oauthlib
+SQLAlchemy
+Werkzeug
